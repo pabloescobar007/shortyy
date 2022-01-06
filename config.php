@@ -1,3 +1,3 @@
 <?php
 
-$config['apikey'] = 'y_XeTDh_KClb27JbLCAwt-L2lQAOXDowy5ok1fiBhV3vi';  // https://killbot.org/dashboard/developers
+$config['apikey'] = 'MgyNLUmecRMbG_HFBpmqdIj5BTdCwlee_RXtbDrJgRm9e';  // https://killbot.org/dashboard/developers
